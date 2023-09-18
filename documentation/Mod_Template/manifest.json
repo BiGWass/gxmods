@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "BiG WASS",
+    "description": "BiG Theme 1",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "SIGMA"
     },
     "icons":
     {
@@ -17,10 +17,11 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/7 Years - Lukas Graham.mp3",
+                "music/Billie Eilish, Khalid - Lovely.mp3",
+                "music/Christina Perri - A Thousand Years.mp3",
+                "music/Jason Mraz - 93 Million Miles.mp3",
+                "music/Lewis Capaldi - Someone You Loved.mp3"
             ],
             "browser_sounds":
             {
@@ -133,15 +134,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
+                        "h": 0,
                         "s": 100,
-                        "l": 72
+                        "l": 40
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 120,
+                        "s": 100,
+                        "l": 40
                     }
                 },
                 "light":
@@ -164,13 +165,13 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/first_frame.jpeg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
+                    "image": "wallpaper/first_frame.jpeg",
                     "first_frame": "wallpaper/first_frame.jpeg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
